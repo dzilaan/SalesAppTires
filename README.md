@@ -1,6 +1,7 @@
-# gjkl_trading
+# Sales Application for Tires
 
 A new Flutter application.
+Practice application that i made.
 
 ## Getting Started
 
