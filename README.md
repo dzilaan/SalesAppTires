@@ -1,8 +1,7 @@
 
 # Sales Application for Tires
 
-A new Flutter application.
-Practice application that i made.
+Sales App with basic Local DB CRUD.
 
 ![2](https://user-images.githubusercontent.com/58915787/130206430-9b2d6083-9832-4adf-a11d-5d5633843cc0.jpg)
 ![1](https://user-images.githubusercontent.com/58915787/130206383-37497ed9-7c85-4fae-9de7-faf6748356c5.jpg)
